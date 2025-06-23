@@ -5,7 +5,10 @@ This repository contains all my projects from the IBM Data Science Professional 
 2. Watson Studio Project: demonstrated the use of IBM's Watson Studio by learning how to apply bold and italic text formatting and create hyperlinks within a Jupyter Notebook.
 3. Tesla & GameStop Revenue Analysis Dashboard: utilized Python libraries including pandas, requests, BeautifulSoup, and yfinance to web scrape historical stock/revenue data for Tesla and GameStop.
 4. Housing Price Data Analysis: showcased fundamental data science skills — including data wrangling, exploratory data analysis (EDA), and model development — to analyze house sales data from King County, USA.
-5. Automobile Data Visualizations: created a variety of data visualizations from a synthetic automobile dataset using Python libraries such as Matplotlib, Seaborn, and Folium. 
+5. Automobile Data Visualizations: created a variety of data visualizations from a synthetic automobile dataset using Python libraries such as Matplotlib, Seaborn, and Folium.
+6. Automobile Analysis Dashboard: created an interactive dashboard utilizing Dash and Plotly to analyze historical sales data from a synthetic automobile dataset, with various visualizations to showcase recession impact, vehicle types, and advertising trends. 
+
+
 
 
 
