@@ -22,7 +22,7 @@ This repository contains all my projects from the IBM Data Science Professional 
 - Scatter Plots
 - Choropleth Map
 
-8. Automobile Analysis Dashboard: Created an interactive dashboard utilizing Dash and Plotly to analyze historical sales data from a synthetic automobile dataset. Visualizations were created to highlight: 
+7. Automobile Analysis Dashboard: Created an interactive dashboard utilizing Dash and Plotly to analyze historical sales data from a synthetic automobile dataset. Visualizations were created to highlight: 
 - The impact of economic recessions on automobile sales
 - Average automobile sales by vehicle type
 - Advertising expenditure by vehicle type
