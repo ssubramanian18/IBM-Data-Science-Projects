@@ -12,7 +12,7 @@ This repository contains all my projects from the IBM Data Science Professional 
 - Exploratory Data Analysis (EDA)
 - Model Development
 
-6. Automobile Data Visualizations: Created a variety of data visualizations from a synthetic automobile dataset using Python libraries, such as Matplotlib, Seaborn, and Folium, to uncover insights into automobile sales. Visualizations include:
+5. Automobile Data Visualizations: Created a variety of data visualizations from a synthetic automobile dataset using Python libraries, such as Matplotlib, Seaborn, and Folium, to uncover insights into automobile sales. Visualizations include:
 - Line Plots
 - Pie Charts
 - Bar Charts
@@ -22,13 +22,13 @@ This repository contains all my projects from the IBM Data Science Professional 
 - Scatter Plots
 - Choropleth Map
 
-7. Automobile Analysis Dashboard: Created an interactive dashboard utilizing Dash and Plotly to analyze historical sales data from a synthetic automobile dataset. Visualizations were created to highlight: 
+6. Automobile Analysis Dashboard: Created an interactive dashboard utilizing Dash and Plotly to analyze historical sales data from a synthetic automobile dataset. Visualizations were created to highlight: 
 - The impact of economic recessions on automobile sales
 - Average automobile sales by vehicle type
 - Advertising expenditure by vehicle type
 - Monthly and yearly trends
 
-8. AUS Weather Models: Developed and evaluated two machine learning classifiers (Random Forest and Logistic Regression) to determine the optimal model for predicting rainfall using historical Australian weather data. 
+7. AUS Weather Models: Developed and evaluated two machine learning classifiers (Random Forest and Logistic Regression) to determine the optimal model for predicting rainfall using historical Australian weather data. 
 
 
 
