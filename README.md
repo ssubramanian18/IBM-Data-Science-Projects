@@ -28,6 +28,8 @@ This repository contains all my projects from the IBM Data Science Professional 
 - Advertising expenditure by vehicle type
 - Monthly and yearly trends
 
+8. AUS Weather Models: Developed and evaluated two machine learning classifiers (Random Forest and Logistic Regression) to determine the optimal model for predicting rainfall using historical Australian weather data. 
+
 
 
 
