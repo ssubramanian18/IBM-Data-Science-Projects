@@ -33,6 +33,14 @@ This repository contains all my projects from the IBM Data Science Professional 
 - Model selection, training, and hyperparameter optimization
 - Model evaluation using metrics and visualizations
 
+8. Final Capstone Project: Demonstrated all my data science skills acquired through the IBM Data Science Professional Certificate by applying them to a real-world SpaceX dataset. These skills included:
+   - Data Collection
+   - Data Wrangling
+   - Exploratory Data Analysis
+   - Data Visualization
+   - Interactive Dashboard Development
+   - Machine Learning Classification Models
+
 
 
 
