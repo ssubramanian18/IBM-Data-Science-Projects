@@ -1,47 +1,224 @@
-# IBM-Data-Science-Projects
-This repository contains all my projects from the IBM Data Science Professional Certificate. 
+# IBM Data Science Professional Certificate Projects
 
-1. First Jupyter Notebook: Demonstrated proficiency in using Jupyter Notebook by creating headers, bullet and numbered lists, tables, and basic Python code.
+## 📌 Project Overview
+This repository contains my portfolio of projects completed during the **IBM Data Science Professional Certificate**.  
+The projects demonstrate skills in:
 
-2. Watson Studio Project: Demonstrated the use of IBM's Watson Studio by learning how to apply bold and italic text formatting and create hyperlinks within a Jupyter Notebook.
-
-3. Tesla & GameStop Stock Analysis: Utilized Python libraries including pandas, requests, BeautifulSoup, and yfinance to web scrape historical stock/revenue data for Tesla and GameStop.
-
-4. Housing Price Data Analysis: Showcased fundamental data science skills to analyze housing sales data from King County, USA. These skills included:
-- Data Wrangling
+- Python programming
+- Data collection and web scraping
+- Data wrangling and cleaning
 - Exploratory Data Analysis (EDA)
-- Model Development
+- Data visualization
+- Machine learning
+- Dashboard development
 
-5. Automobile Sales Analysis Visualizations (within Automobile Sales Analysis folder): Created a variety of data visualizations from a synthetic automobile dataset using Python libraries, such as Matplotlib, Seaborn, and Folium, to uncover insights into automobile sales. Visualizations include:
-- Line Plots
-- Pie Charts
-- Bar Charts
-- Histograms
-- Bubble Plots
-- Subplots
-- Scatter Plots
-- Choropleth Map
+---
 
-6. Automobile Sales Analysis Dashboard (within Automobile Sales Analysis folder): Created an interactive dashboard utilizing Dash and Plotly to analyze historical sales data from a synthetic automobile dataset. Visualizations were created to highlight: 
-- The impact of economic recessions on automobile sales
-- Average automobile sales by vehicle type
-- Advertising expenditure by vehicle type
-- Monthly and yearly trends
+# 🎯 Objectives & Goals
 
-7. Australian Weather Models: Developed and evaluated two machine learning classifiers (Random Forest and Logistic Regression) to determine the optimal model for predicting rainfall from historical Australian weather data. Displayed the following skills:
-- Feature engineering and data cleaning
-- Model selection, training, and hyperparameter optimization
-- Model evaluation using metrics and visualizations
+- Apply data science techniques to real-world datasets
+- Develop proficiency with Python data science libraries
+- Build predictive machine learning models
+- Create interactive dashboards and visualizations
+- Practice the complete data science workflow:
+  **Collect → Clean → Analyze → Model → Communicate**
 
-8. SpaceX Capstone Project: Demonstrated all my data science skills acquired through the IBM Data Science Professional Certificate by applying them to a real-world SpaceX dataset. These skills included:
-- Data Collection
+---
+
+# 📂 Projects
+
+## 1. Jupyter Notebook Basics
+**Skills Demonstrated**
+- Notebook formatting
+- Markdown documentation
+- Python fundamentals
+
+**Tech Used**
+- Jupyter Notebook
+- Python
+
+---
+
+## 2. Watson Studio Project
+**Skills Demonstrated**
+- Using IBM Watson Studio
+- Markdown formatting
+- Creating links and documentation
+
+**Tech Used**
+- IBM Watson Studio
+- Jupyter Notebook
+
+---
+
+## 3. Tesla & GameStop Stock Analysis
+
+**Objective:**  
+Analyze historical stock prices and revenue data.
+
+**Methodology**
+- Extracted stock data using APIs and web scraping
+- Cleaned and processed financial datasets
+- Compared stock performance trends
+
+**Libraries**
+- pandas
+- requests
+- BeautifulSoup
+- yfinance
+
+**Key Findings**
+- Identified historical price trends
+- Compared stock performance with revenue changes
+
+---
+
+## 4. Housing Price Data Analysis
+
+**Dataset:** King County Housing Sales Data, USA
+
+**Workflow**
 - Data Wrangling
 - Exploratory Data Analysis
-- Data Visualization
-- Interactive Dashboard Development
-- Machine Learning Classification Models
+- Feature analysis
+- Model development
 
+**Skills Developed**
+- Data preprocessing
+- Regression modeling
+- Model evaluation
 
+---
 
+# 5. Automobile Sales Analysis
 
+## 📊 Visualizations
 
+Created visualizations to uncover automobile sales trends:
+
+- Line plots
+- Pie charts
+- Bar charts
+- Histograms
+- Bubble plots
+- Scatter plots
+- Subplots
+- Choropleth maps
+
+**Libraries**
+- Matplotlib
+- Seaborn
+- Folium
+
+---
+
+## 📈 Automobile Sales Dashboard
+
+Built an interactive dashboard using:
+
+- Dash
+- Plotly
+
+Dashboard Insights:
+
+| Analysis | Purpose |
+|---|---|
+| Economic recessions | Impact on automobile sales |
+| Vehicle types | Average sales comparison |
+| Advertising spending | Marketing trends |
+| Monthly/yearly trends | Sales patterns over time |
+
+---
+
+# 6. Australian Weather Prediction Models
+
+**Objective:**  
+Predict rainfall using historical Australian weather data.
+
+## Methodology
+
+- Data cleaning
+- Feature engineering
+- Model training
+- Hyperparameter optimization
+- Model evaluation
+
+## Models Tested
+
+| Model | Result |
+|---|---|
+| Random Forest | Evaluated for rainfall prediction |
+| Logistic Regression | Evaluated for classification performance |
+
+**Evaluation Metrics**
+- Accuracy
+- Precision
+- Recall
+- F1-score
+- Confusion matrix
+
+---
+
+# 7. SpaceX Capstone Project 🚀
+
+**Objective:**  
+Apply the complete data science lifecycle to predict SpaceX launch outcomes.
+
+## Skills Applied
+
+✅ Data Collection  
+✅ Data Wrangling  
+✅ Exploratory Data Analysis  
+✅ Data Visualization  
+✅ Interactive Dashboard Development  
+✅ Machine Learning Classification  
+
+---
+
+# 📊 Results & Key Findings
+
+Across the projects, I developed experience with:
+
+- Extracting and cleaning real-world datasets
+- Identifying patterns through visualization
+- Building and comparing machine learning models
+- Communicating insights through dashboards
+- Applying data science workflows from start to finish
+
+---
+
+# 📷 Visualizations
+
+Projects include:
+
+- Stock performance charts
+- Housing analysis plots
+- Automobile sales dashboards
+- Weather prediction evaluation charts
+- SpaceX launch analysis visualizations
+
+---
+
+# 🔮 Potential Next Steps
+
+Future improvements:
+
+- Deploy dashboards online
+- Experiment with additional machine learning algorithms
+- Improve model performance through advanced feature engineering
+- Apply deep learning techniques
+- Automate data collection pipelines
+
+---
+
+# 👤 Individual Contribution
+
+All projects were independently completed as part of the IBM Data Science Professional Certificate.
+
+Responsibilities included:
+
+- Data collection and preparation
+- Exploratory analysis
+- Model development
+- Visualization creation
+- Dashboard implementation
