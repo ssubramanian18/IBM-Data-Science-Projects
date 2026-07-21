@@ -62,8 +62,7 @@ Analyze historical stock prices and revenue data.
 - Compared stock performance trends
 
 **Libraries**
-- pandas
-- requests
+- Pandas
 - BeautifulSoup
 - yfinance
 
@@ -144,11 +143,8 @@ Predict rainfall using historical Australian weather data.
 - Model evaluation
 
 ## Models Tested
-
-| Model | Result |
-|---|---|
-| Random Forest | Evaluated for rainfall prediction |
-| Logistic Regression | Evaluated for classification performance |
+- Random Forest
+- Logistic Regression
 
 **Evaluation Metrics**
 - Accuracy
@@ -184,41 +180,3 @@ Across the projects, I developed experience with:
 - Building and comparing machine learning models
 - Communicating insights through dashboards
 - Applying data science workflows from start to finish
-
----
-
-# 📷 Visualizations
-
-Projects include:
-
-- Stock performance charts
-- Housing analysis plots
-- Automobile sales dashboards
-- Weather prediction evaluation charts
-- SpaceX launch analysis visualizations
-
----
-
-# 🔮 Potential Next Steps
-
-Future improvements:
-
-- Deploy dashboards online
-- Experiment with additional machine learning algorithms
-- Improve model performance through advanced feature engineering
-- Apply deep learning techniques
-- Automate data collection pipelines
-
----
-
-# 👤 Individual Contribution
-
-All projects were independently completed as part of the IBM Data Science Professional Certificate.
-
-Responsibilities included:
-
-- Data collection and preparation
-- Exploratory analysis
-- Model development
-- Visualization creation
-- Dashboard implementation
