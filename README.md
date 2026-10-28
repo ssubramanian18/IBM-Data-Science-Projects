@@ -10,7 +10,7 @@ The projects demonstrate skills in:
 - Exploratory Data Analysis (EDA)
 - Data visualization
 - Machine learning
-- Dashboard developm
+- Dashboard development
 
 ---
 
